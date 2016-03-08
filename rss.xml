@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NATUWA]]></title>
         <description><![CDATA[NATUWA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/natuwa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 22:13:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 22:51:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/natuwa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Macaw Sanctuary NATUWA]]></title>
+            <description><![CDATA[<h1>Macaw Sanctuary NATUWA</h1>]]></description>
+            <link>https://thegrid.ai/natuwa/macaw-sanctuary-natuwa/index.html</link>
+            <guid isPermaLink="false">8fe17bc2-92e4-4f07-92cf-8eef292ad099</guid>
+            <pubDate>Tue, 08 Mar 2016 22:49:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scarlet macaws' babies.]]></title>
             <description><![CDATA[<article><h1>Scarlet macaws' babies.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23e12e60e9607de0b90aef37608f829d7514d6c5.png"></article>]]></description>
-            <link>undefinedscarlet-macaws-babies/index.html</link>
+            <link>https://thegrid.ai/natuwa/scarlet-macaws-babies/index.html</link>
             <guid isPermaLink="false">3ff6059d-475c-4f59-a6f5-ae9297e879f8</guid>
             <pubDate>Tue, 08 Mar 2016 22:13:50 GMT</pubDate>
         </item>
