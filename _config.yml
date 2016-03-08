@@ -1,14 +1,26 @@
 layout_spectrum: 0
-typography_spectrum: 0.6616541
+name: NATUWA
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.5808271
   brandStrength: 0.8220552
+  lightness: 0.731203
   saturation: 0.3314536
   rhythmicContrast: 0.8464912
   brandColors:
-    - '#4B5C2F'
-    - '#010102'
-    - '#BE755C'
-    - '#799991'
-    - '#C42227'
-name: NATUWA
+    - '#000000'
+    - '#EE1D25'
+    - '#FFFFFF'
+    - '#303030'
+    - '#CFCFCF'
+typography_spectrum: 0.3615288
