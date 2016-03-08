@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NATUWA]]></title>
+        <description><![CDATA[NATUWA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 22:13:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scarlet macaws' babies.]]></title>
+            <description><![CDATA[<article><h1>Scarlet macaws' babies.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23e12e60e9607de0b90aef37608f829d7514d6c5.png"></article>]]></description>
+            <link>undefinedscarlet-macaws-babies/index.html</link>
+            <guid isPermaLink="false">3ff6059d-475c-4f59-a6f5-ae9297e879f8</guid>
+            <pubDate>Tue, 08 Mar 2016 22:13:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
