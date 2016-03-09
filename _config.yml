@@ -15,9 +15,9 @@ collections:
 typography_spectrum: 0.07017544
 color:
   brandStrength: 0
-  lightness: 0.9066416
-  saturation: 0.04761905
-  rhythmicContrast: 0.7048872
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
   brandColors:
     - '#000000'
     - '#EE1D25'
