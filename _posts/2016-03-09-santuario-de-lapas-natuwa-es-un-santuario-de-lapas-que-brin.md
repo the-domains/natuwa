@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Muchos de estos animales sin hogar encuentran en El Santuario de Lapas la atención necesaria para poder existir en cautiverio con dignidad o encontrar la posibilidad de regresar a sus ambientes naturales.
-datePublished: '2016-03-09T06:03:05.550Z'
-dateModified: '2016-03-09T06:03:05.175Z'
+datePublished: '2016-03-09T06:08:42.096Z'
+dateModified: '2016-03-09T06:08:42.007Z'
 author: []
 title: SANTUARIO DE LAPAS NATUWA
 sourcePath: _posts/2016-03-09-santuario-de-lapas-natuwa-es-un-santuario-de-lapas-que-brin.md
@@ -23,8 +23,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# SANTUARIO DE LAPAS NATUWA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42034045-cd6b-465f-bae3-c7642e70607b.png)
+
+# SANTUARIO DE LAPAS NATUWA
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/273316a4fee985ec9fd7119c5ba5dc2caa964679.jpg)
 
 # Es un santuario que brinda refugio y protección a los animales silvestres que han sido víctimas de acciones cometidas por el ser humano tales como la caza, la extracción de su ambiente y la tala de árboles. 
