@@ -1,5 +1,7 @@
+name: NATUWA - A place of refuge and protection -
+favicon: null
 layout_spectrum: 0.1679198
-name: NATUWA
+typography_spectrum: 0.07017544
 collections:
   - index:
       navigable: true
@@ -12,15 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.07017544
+title: Lugar de refugio y protección.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
   brandColors:
     - '#000000'
     - '#EE1D25'
     - '#FFFFFF'
     - '#303030'
     - '#CFCFCF'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
