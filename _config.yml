@@ -1,4 +1,4 @@
-layout_spectrum: 0.9291737
+layout_spectrum: 0.5451128
 name: NATUWA
 collections:
   - index:
@@ -12,7 +12,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.3615288
 color:
   brandStrength: 0.8220552
   saturation: 0.3314536
@@ -24,3 +23,4 @@ color:
     - '#CFCFCF'
   lightness: 0.731203
   rhythmicContrast: 0.8464912
+typography_spectrum: 0.3615288
