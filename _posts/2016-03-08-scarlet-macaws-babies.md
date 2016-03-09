@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-08T22:13:50.133Z'
+datePublished: '2016-03-09T03:43:16.631Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: "Scarlet macaws' babies."
-dateModified: '2016-03-08T22:11:13.100Z'
+dateModified: '2016-03-08T22:14:08.011Z'
 sourcePath: _posts/2016-03-08-scarlet-macaws-babies.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
