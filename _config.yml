@@ -1,4 +1,4 @@
-name: NATUWA - A place of refuge and protection -
+name: NATUWA
 favicon: null
 layout_spectrum: 0.1679198
 typography_spectrum: 0.07017544
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#EE1D25'
-    - '#FFFFFF'
-    - '#303030'
-    - '#CFCFCF'
+    - '#0f1d0f'
+    - '#2c461b'
+    - '#ae9d84'
+    - '#cd8245'
+    - '#668022'
   brandStrength: 0
   lightness: 0
   saturation: 0
