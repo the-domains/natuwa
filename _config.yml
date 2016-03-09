@@ -1,7 +1,7 @@
 name: NATUWA
 favicon: null
 layout_spectrum: 0.1679198
-typography_spectrum: 0.07017544
+typography_spectrum: 0.06536
 collections:
   - index:
       navigable: true
