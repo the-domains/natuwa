@@ -1,20 +1,19 @@
+color:
+  brandStrength: 0.1875
+  saturation: 0.0625
+  brandColors:
+    - '#0f1d0f'
+    - '#2c461b'
+    - '#ae9d84'
+    - '#cd8245'
+    - '#668022'
+  lightness: 0.5625
+  rhythmicContrast: 0.25
 title: Lugar de refugio y protección.
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.50813
-favicon: null
-name: NATUWA
-purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -27,15 +26,16 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.1875
-  saturation: 0.0625
-  brandColors:
-    - '#0f1d0f'
-    - '#2c461b'
-    - '#ae9d84'
-    - '#cd8245'
-    - '#668022'
-  lightness: 0.5625
-  rhythmicContrast: 0.25
+cta:
+  domain: null
+  version: null
+  bucket: null
+favicon: null
+layout_spectrum: 0.50813
+purpose: []
+name: NATUWA
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 1
