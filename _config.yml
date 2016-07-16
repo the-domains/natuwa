@@ -1,16 +1,16 @@
 title: Lugar de refugio y protección.
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.4300169
+layout_spectrum: 0
 favicon: null
 name: NATUWA
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -38,4 +38,4 @@ color:
     - '#668022'
   lightness: 0.5625
   rhythmicContrast: 0.25
-typography_spectrum: 1
+typography_spectrum: 0.7299499
